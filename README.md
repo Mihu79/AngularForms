@@ -1,27 +1,23 @@
-# Login_Form
+# AngularForms - Login Form
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.5.
+## Descriere
 
-## Development server
+Acest proiect este o aplicație Angular care implementează un formular de autentificare. Proiectul este generat folosind Angular CLI și include toate funcționalitățile necesare pentru dezvoltarea, testarea și construirea unei aplicații web moderne.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## Funcționalități
 
-## Code scaffolding
+- **Formular de Autentificare**: Implementare a unui formular pentru utilizatori pentru a se autentifica.
+- **Dezvoltare Locală**: Posibilitatea de a rula un server de dezvoltare pentru testare rapidă și eficientă.
+- **Scaffoldare Cod**: Generarea componentelor noi folosind Angular CLI.
+- **Teste Unitare**: Executarea testelor unitare pentru a asigura funcționalitatea corectă a componentelor.
+- **Teste End-to-End**: Executarea testelor end-to-end pentru a verifica fluxurile complete ale aplicației.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Instalare
 
-## Build
+1. Clonează repository-ul:
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+   ```bash
+   git clone https://github.com/Mihu79/AngularForms.git
+  
 
-## Running unit tests
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
